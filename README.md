@@ -1,12 +1,7 @@
-# Conceptual-OS
-
-
-
- ![Descripción de la imagen](URL_de_la_imagen)
-   
+# Conceptual-OS  
 
   <p align="center">
-     <img src="URL_de_la_imagen" alt="Descripción de la imagen">
+     <img src="./logo/conceptual.jpeg" alt="a conceptual image">
    </p>
 
 
